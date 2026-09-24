@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 565" role="img" aria-label="Codex 任务页示意：运行状态、配额与任务链">
+  <rect width="1200" height="565" rx="22" fill="#0e1112"/>
+  <rect x="1" y="1" width="1198" height="563" rx="21" fill="none" stroke="#303637"/>
+  <rect width="1200" height="62" rx="22" fill="#181b1c"/>
+  <rect y="46" width="1200" height="16" fill="#181b1c"/>
+  <path d="M27 30l9-8 9 8-9 8z" fill="none" stroke="#70e6c2" stroke-width="2"/>
+  <g font-family="PingFang SC, Noto Sans CJK SC, Arial, sans-serif" fill="#f2f5f4">
+    <text x="57" y="38" font-size="20" font-weight="700">AI 工作台</text>
+    <text x="243" y="37" font-size="15" fill="#a6b0ad">经营</text>
+    <text x="331" y="37" font-size="15" fill="#a6b0ad">执行</text>
+    <rect x="411" y="14" width="99" height="35" rx="10" fill="#2a3733"/>
+    <text x="432" y="37" font-size="15" font-weight="700" fill="#8aefd0">Codex</text>
+    <text x="539" y="37" font-size="15" fill="#a6b0ad">工作逻辑</text>
+    <text x="1015" y="37" font-size="13" fill="#7e938b">纯演示数据</text>
+
+    <text x="26" y="112" font-size="26" font-weight="700">Codex 任务</text>
+    <text x="26" y="139" font-size="13" fill="#a8b3af">查看任务进展、结果和任务链；状态来自本机 Codex</text>
+    <rect x="807" y="86" width="113" height="37" rx="11" fill="#254a3f"/>
+    <text x="824" y="111" font-size="14" font-weight="700" fill="#8aefd0">● 2 运行</text>
+    <rect x="930" y="86" width="107" height="37" rx="11" fill="#47392a"/>
+    <text x="948" y="111" font-size="14" font-weight="700" fill="#ffbd68">◷ 1 等你</text>
+    <rect x="1047" y="86" width="127" height="37" rx="11" fill="#2a3030"/>
+    <text x="1061" y="111" font-size="13" fill="#d8e0dc">额度剩余 64%</text>
+
+    <rect x="25" y="163" width="1150" height="179" rx="17" fill="#17211f" stroke="#4b7167"/>
+    <text x="44" y="192" font-size="15" font-weight="700" fill="#8aefd0">任务链 · 3 步</text>
+
+    <rect x="43" y="208" width="352" height="116" rx="13" fill="#222b2a" stroke="#40524d"/>
+    <text x="59" y="232" font-size="12" fill="#8aefd0">演示项目 · 需求研究</text>
+    <text x="59" y="264" font-size="17" font-weight="700">访谈问题整理</text>
+    <text x="59" y="297" font-size="13" fill="#aeb8b3">✓ 已闭环 · 形成访谈提纲</text>
+
+    <text x="402" y="276" font-size="19" fill="#74d9b9">→</text>
+
+    <rect x="429" y="208" width="352" height="116" rx="13" fill="#222b2a" stroke="#40524d"/>
+    <text x="445" y="232" font-size="12" fill="#8aefd0">演示项目 · 证据核对</text>
+    <text x="445" y="264" font-size="17" font-weight="700">梳理付费信号与反证</text>
+    <text x="445" y="297" font-size="13" fill="#ffbd68">◷ 等你 · 需要确认判断</text>
+
+    <text x="788" y="276" font-size="19" fill="#74d9b9">→</text>
+
+    <rect x="815" y="208" width="342" height="116" rx="13" fill="#222b2a" stroke="#40524d"/>
+    <text x="831" y="232" font-size="12" fill="#8aefd0">演示项目 · 下一步</text>
+    <text x="831" y="264" font-size="17" font-weight="700">设计最小预约实验</text>
+    <text x="831" y="297" font-size="13" fill="#8aefd0">● 运行中 · AI 正在准备</text>
+
+    <rect x="25" y="363" width="365" height="150" rx="15" fill="#1d2323" stroke="#323a38"/>
+    <text x="43" y="391" font-size="12" fill="#a8b3af">内容项目 · 独立任务</text>
+    <text x="43" y="426" font-size="17" font-weight="700">整理一周用户问答</text>
+    <text x="43" y="485" font-size="13" fill="#8aefd0">● 运行中</text>
+
+    <rect x="405" y="363" width="365" height="150" rx="15" fill="#1d2323" stroke="#323a38"/>
+    <text x="423" y="391" font-size="12" fill="#a8b3af">运营项目 · 独立任务</text>
+    <text x="423" y="426" font-size="17" font-weight="700">复盘预约入口表现</text>
+    <text x="423" y="485" font-size="13" fill="#a8b3af">✓ 已闭环 · 可查看结果</text>
+
+    <rect x="785" y="363" width="390" height="150" rx="15" fill="#1d2323" stroke="#323a38"/>
+    <text x="803" y="391" font-size="12" fill="#a8b3af">界面提示</text>
+    <text x="803" y="426" font-size="17" font-weight="700">右键任务，可继续分析</text>
+    <text x="803" y="457" font-size="13" fill="#a8b3af">核对证据 / 发现假设 / 开启下一步</text>
+    <text x="25" y="548" font-size="13" fill="#71817b">界面示意 · 不包含真实任务、额度或账户信息</text>
+  </g>
+</svg>

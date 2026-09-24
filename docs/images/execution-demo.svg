@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 565" role="img" aria-label="假设执行页示意：当前行动、AI 建议与任务上下文">
+  <rect width="1200" height="565" rx="22" fill="#0e1112"/>
+  <rect x="1" y="1" width="1198" height="563" rx="21" fill="none" stroke="#303637"/>
+  <rect width="1200" height="62" rx="22" fill="#181b1c"/>
+  <rect y="46" width="1200" height="16" fill="#181b1c"/>
+  <path d="M27 30l9-8 9 8-9 8z" fill="none" stroke="#70e6c2" stroke-width="2"/>
+  <g font-family="PingFang SC, Noto Sans CJK SC, Arial, sans-serif" fill="#f2f5f4">
+    <text x="57" y="38" font-size="20" font-weight="700">AI 工作台</text>
+    <text x="243" y="37" font-size="15" fill="#a6b0ad">经营</text>
+    <rect x="316" y="14" width="88" height="35" rx="10" fill="#2a3733"/>
+    <text x="339" y="37" font-size="15" font-weight="700" fill="#8aefd0">执行</text>
+    <text x="428" y="37" font-size="15" fill="#a6b0ad">Codex</text>
+    <text x="520" y="37" font-size="15" fill="#a6b0ad">工作逻辑</text>
+    <text x="1015" y="37" font-size="13" fill="#7e938b">纯演示数据</text>
+
+    <rect x="20" y="82" width="252" height="450" rx="16" fill="#171c1c" stroke="#313b38"/>
+    <text x="38" y="113" font-size="19" font-weight="700">关键假设</text>
+    <text x="38" y="136" font-size="12" fill="#a5b0ab">按里程碑与前置依赖排序</text>
+    <rect x="34" y="154" width="224" height="89" rx="12" fill="#233631" stroke="#4f8b78"/>
+    <text x="48" y="181" font-size="14" font-weight="700" fill="#8aefd0">H-01 · 主验证</text>
+    <text x="48" y="207" font-size="15" font-weight="700">有人愿意为上门</text>
+    <text x="48" y="228" font-size="15" font-weight="700">植物养护付费</text>
+    <rect x="34" y="253" width="224" height="78" rx="12" fill="#202525"/>
+    <text x="48" y="280" font-size="14" font-weight="700" fill="#9bb3aa">H-02 · 并行</text>
+    <text x="48" y="307" font-size="14">体验后愿意复购</text>
+    <rect x="34" y="341" width="224" height="78" rx="12" fill="#202525"/>
+    <text x="48" y="368" font-size="14" font-weight="700" fill="#9bb3aa">H-03 · 后置</text>
+    <text x="48" y="395" font-size="14">转介绍能带来线索</text>
+
+    <text x="298" y="110" font-size="23" font-weight="700">H-01 · 付费意愿验证</text>
+    <text x="298" y="137" font-size="13" fill="#a8b3af">需求 / 解决方案 · 当前里程碑的主验证</text>
+    <rect x="1035" y="86" width="143" height="39" rx="11" fill="#285d4e"/>
+    <text x="1054" y="111" font-size="14" font-weight="700" fill="#b1ffdf">↻ 更新此假设</text>
+
+    <rect x="298" y="160" width="426" height="146" rx="15" fill="#1d2323" stroke="#323a38"/>
+    <text x="316" y="188" font-size="16" font-weight="700" fill="#ffbd68">现在等你做</text>
+    <text x="316" y="221" font-size="15">看完 3 位用户的访谈记录，判断是否</text>
+    <text x="316" y="246" font-size="15">存在真实付费信号；有疑问再追问。</text>
+    <text x="316" y="283" font-size="12" fill="#a8b3af">人工判断门槛 · AI 不替你作证据采纳</text>
+
+    <rect x="738" y="160" width="440" height="146" rx="15" fill="#1d2323" stroke="#323a38"/>
+    <text x="756" y="188" font-size="16" font-weight="700" fill="#8aefd0">AI 建议</text>
+    <text x="756" y="220" font-size="15">整理访谈中的支持与反证，列出</text>
+    <text x="756" y="245" font-size="15">下一轮最值得追问的 2 个问题。</text>
+    <rect x="756" y="266" width="187" height="27" rx="8" fill="#285d4e"/>
+    <text x="768" y="285" font-size="12" fill="#b1ffdf">准备 Codex 任务草稿 →</text>
+
+    <rect x="298" y="322" width="880" height="210" rx="15" fill="#1d2323" stroke="#323a38"/>
+    <text x="316" y="352" font-size="18" font-weight="700">任务上下文</text>
+    <text x="1001" y="352" font-size="12" fill="#a8b3af">历史 / 新建 / 手动关联</text>
+    <rect x="316" y="369" width="260" height="126" rx="12" fill="#222b2a" stroke="#4b7167"/>
+    <text x="330" y="394" font-size="12" fill="#8aefd0">演示项目 · 历史任务</text>
+    <text x="330" y="424" font-size="15" font-weight="700">用户访谈：养护难点</text>
+    <text x="330" y="466" font-size="12" fill="#adb8b3">已闭环 · 发现 3 个常见场景</text>
+    <rect x="588" y="369" width="260" height="126" rx="12" fill="#222b2a" stroke="#4b7167"/>
+    <text x="602" y="394" font-size="12" fill="#8aefd0">任务链 · 第 2 步</text>
+    <text x="602" y="424" font-size="15" font-weight="700">最小服务版本设计</text>
+    <text x="602" y="466" font-size="12" fill="#ffbd68">等你确认方案</text>
+    <rect x="860" y="369" width="300" height="126" rx="12" fill="#222b2a" stroke="#4b7167"/>
+    <text x="874" y="394" font-size="12" fill="#8aefd0">可继续创建</text>
+    <text x="874" y="424" font-size="15" font-weight="700">付费证据与反证核对</text>
+    <text x="874" y="466" font-size="12" fill="#adb8b3">尚未发送给 Codex</text>
+    <text x="20" y="548" font-size="13" fill="#71817b">界面示意 · 假设、项目与任务均为虚构演示数据</text>
+  </g>
+</svg>
