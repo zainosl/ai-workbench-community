@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+.build-community/
+*.xcuserstate
+*.swp
+*.log
+dist/
+local/
+config.json
+Workspace/
+Logs/
+Associations/
+Results/
